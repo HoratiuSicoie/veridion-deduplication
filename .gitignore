@@ -9,10 +9,6 @@ __pycache__/
 derby.log
 *.crc
 
-# Output
-/Data/deduplicated_output*
-*.parquet
-*.csv
 
 # Environment
 .env
